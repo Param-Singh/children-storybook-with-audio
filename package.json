@@ -1,0 +1,12 @@
+{
+  "name": "children-storybook-with-audio",
+  "version": "1.0.0",
+  "description": "This is a full stack application for storybooks with audio for children",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Param",
+  "license": "ISC"
+}
